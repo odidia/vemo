@@ -1,0 +1,19 @@
+hell Script:
+  for (( Initiation;condition;inc/dec ))
+  do
+  command/statement
+  done
+
+
+
+echo "for-loop start"
+for (( a=1;a<=5;a++))    == a++ is the same as a+1
+do
+echo $a
+done
+
+a++  == expr a + 1
+
+a = 1
+
+
